@@ -3,4 +3,4 @@ initWebchat(
 	).then(cognigyWebchat => {
     cognigyWebchat.open();
   });
-}
+
